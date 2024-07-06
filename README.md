@@ -2,12 +2,12 @@
 Basic and scientific android calculator app with unit testing all written using Kotlin
 <br>
 
-## Portrait Layout -- Basic Calculator
-![Simple Calculator Portrait Layout](./images/Screenshot_20240706_233721.png)
-<br>
 
-## Landscape Layout -- Scientific Calculator
-![Scientific Calculator Landscape Layout](./images/Screenshot_20240706_233809.png)
+
+<p align="center">
+  <img src="./images/Screenshot_20240706_233721.png" height="500" width="350" title="Simple Calculator Portrait Layout">
+  <img src="./images/Screenshot_20240706_233809.png" width="350" alt="Scientific Calculator Landscape Layout">
+</p>
 <br>
 
 ## Unique Features
