@@ -5,7 +5,7 @@ Basic and scientific android calculator app with unit testing all written using 
 
 
 <p align="center">
-  <img src="./images/Screenshot_20240706_233721.png" height="500" width="200" title="Simple Calculator Portrait Layout">
+  <img src="./images/Screenshot_20240706_233721.png" height="500" width="300" title="Simple Calculator Portrait Layout">
   <img src="./images/Screenshot_20240706_233809.png" width="600" alt="Scientific Calculator Landscape Layout">
 </p>
 <br>
