@@ -16,9 +16,11 @@ Basic and scientific android calculator app with unit testing all written using 
 <br>
 
 ## Unique Features
-* Uses [EvalEx](https://github.com/uklimaschewski/EvalEx)
-  * [EvalEx](https://github.com/uklimaschewski/EvalEx) is a handy expression evaluator for Java, that allows to evaluate simple mathematical and boolean expressions
+* Uses 
+  * Complete Implementation of simple and scientfic operations without using any third party library.
+  * All functions performed by using built math operations (Kotlin.math)
   * Finding this tool was a big relief because it uses BigDecimal precision.
+  * A big hand of [Geeks for Geeks](https://www.geeksforgeeks.org/how-to-make-a-scientific-calculator-android-app-using-android-studio/) in helping to give the idea of functionalities
   * Calculations based on text input.  Uses [Reverse Polish Notation (RPN)](https://en.wikipedia.org/wiki/Reverse_Polish_notation).
   * Unicode reference for special characters [Uni codes wikipedia](https://en.wikipedia.org/wiki/List_of_Unicode_characters)
 * Has two different layouts for portrait and landscape.  I had a hard time finding code examples on the internet that had both these features
