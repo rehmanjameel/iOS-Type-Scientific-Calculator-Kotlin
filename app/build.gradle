@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace 'com.assignment.proj_ebrheimmaryam'
+    namespace 'com.codebase.iosscicalc'
     compileSdk 34
 
     defaultConfig {
-        applicationId "com.assignment.proj_ebrheimmaryam"
+        applicationId "com.codebase.iosscicalc"
         minSdk 24
         targetSdk 34
         versionCode 1

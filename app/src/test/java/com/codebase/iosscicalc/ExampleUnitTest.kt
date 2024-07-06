@@ -1,4 +1,4 @@
-package com.assignment.proj_ebrheimmaryam
+package com.codebase.iosscicalc
 
 import org.junit.Test
 
