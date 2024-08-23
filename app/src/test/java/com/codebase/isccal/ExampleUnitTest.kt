@@ -1,4 +1,4 @@
-package com.codebase.iosscicalc
+package com.codebase.isccal
 
 import org.junit.Test
 

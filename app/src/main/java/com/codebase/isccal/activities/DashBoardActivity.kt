@@ -1,14 +1,10 @@
-package com.codebase.iosscicalc.activities
+package com.codebase.isccal.activities
 
 import android.content.Intent
 import android.os.Bundle
-import androidx.activity.enableEdgeToEdge
 import androidx.appcompat.app.AppCompatActivity
-import androidx.core.view.ViewCompat
-import androidx.core.view.WindowInsetsCompat
-import com.codebase.iosscicalc.MainActivity
-import com.codebase.iosscicalc.R
-import com.codebase.iosscicalc.databinding.ActivityDashBoardBinding
+import com.codebase.isccal.MainActivity
+import com.codebase.isccal.databinding.ActivityDashBoardBinding
 
 class DashBoardActivity : AppCompatActivity() {
 

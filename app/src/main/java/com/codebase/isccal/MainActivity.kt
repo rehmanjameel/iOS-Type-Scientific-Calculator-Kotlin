@@ -1,4 +1,4 @@
-package com.codebase.iosscicalc
+package com.codebase.isccal
 
 import android.content.res.Configuration
 import android.os.Bundle
@@ -6,7 +6,6 @@ import android.widget.Button
 import android.widget.TextView
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
-import com.codebase.iosscicalc.R
 import kotlin.math.E
 import kotlin.math.acos
 import kotlin.math.asin
