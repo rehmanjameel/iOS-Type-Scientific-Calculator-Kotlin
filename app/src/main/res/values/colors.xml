@@ -3,14 +3,18 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
 
+    <color name="light_green">#003366</color>
+    <color name="light_green_gradient">#0059b3</color>
+
+
     <color name="red">#e60000</color>
     <color name="green">#006600</color>
 
-    <color name="purple_200">#FF70f572</color>
+    <color name="purple_200">#FF0059b3</color>
     <color name="yelow">#FFdee02a</color>
     <!--    <color name="purple_500">#FF6200EE</color>-->
     <!--    <color name="purple_500">#d46f2b</color>-->
-    <color name="purple_500">#076809</color>
+    <color name="purple_500">#003366</color>
     <color name="purple_300">#55fb3c</color>
     <!--    <color name="purple_700">#FF3700B3</color>-->
     <color name="purple_700">#FF11ad17</color>
@@ -20,12 +24,12 @@
     <color name="dark_grey">#262626</color>
     <color name="light_grey">#6e6e6c</color>
     <color name="light">#212B22</color>
-    <color name="light_green">#72E1AC</color>
-    <color name="tool_bar">#0d9b15</color>
     <color name="icons_color">#2c2b33</color>
     <color name="pink">#ff4d4d</color>
     <color name="screen_background">#F6F6F6</color>
     <color name="light_orange">#FC8D27</color>
     <color name="transparent_light_orange">#80FC8D27</color>
     <color name="transparent_white">#80FFFFFF</color>
+
+    <color name="tool_bar">#003366</color>
 </resources>
