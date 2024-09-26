@@ -1,3 +1,9 @@
 <resources>
+
     <string name="app_name">ISC-Calculator</string>
+    <string name="admob_app_id">ca-app-pub-9690460963180886~6540828043</string>
+    <string name="admob_banner_unit_id">ca-app-pub-9690460963180886/3696577826</string>
+    <string name="admob_interstitial_unit_id">ca-app-pub-9690460963180886/6131169470</string>
+    <string name="admob_interstitial_unit_id1">ca-app-pub-3940256099942544/1033173712</string>
+
 </resources>
